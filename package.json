@@ -1,0 +1,12 @@
+{
+  "name": "blog-mern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": "true",
+  "repository": "https://github.com/lukekeum/blog-mern.git",
+  "author": "lukekeum <lukekeum11@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
